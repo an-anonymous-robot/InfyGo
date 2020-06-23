@@ -10,7 +10,7 @@ spring:
     
     username: root
     password: 
-    url: jdbc:mysql://localhost:3307/mydb
+    url: jdbc:mysql://localhost:3307/mydb?serverTimezone=UTC
   jpa:
       show-sql: true
       hibernate:

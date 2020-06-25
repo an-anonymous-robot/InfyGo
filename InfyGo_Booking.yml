@@ -1,6 +1,6 @@
 spring:
   application:
-    name: InfyGo_Booking
+    name: InfyGoBooking
   mvc:
     view:
       prefix: /WEB-INF/pages/

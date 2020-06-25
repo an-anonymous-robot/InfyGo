@@ -27,3 +27,5 @@ logging:
     com.infoys.ars: info
   pattern:
     file: "%d{yyyy-MM-dd HH:mm:ss,SSS} %5p [%t] %c [%M] - %m%n"
+server:
+  port: 0

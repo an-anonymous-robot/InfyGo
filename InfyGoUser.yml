@@ -1,6 +1,6 @@
 spring:
   application:
-    name: InfyGo_User
+    name: InfyGoUser
   mvc:
     view:
       prefix: /WEB-INF/pages/
